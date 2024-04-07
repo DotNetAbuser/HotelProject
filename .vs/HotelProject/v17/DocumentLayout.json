@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilyao\\HotelProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F4A24C-EF1A-4049-9D44-6CF99D2637D6}|src\\HotelProject.Web\\HotelProject.Web.Client\\Client.Web.csproj|c:\\users\\ilyao\\hotelproject\\src\\hotelproject.web\\hotelproject.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F4A24C-EF1A-4049-9D44-6CF99D2637D6}|src\\HotelProject.Web\\HotelProject.Web.Client\\Client.Web.csproj|solutionrelative:src\\hotelproject.web\\hotelproject.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE816EE-41C9-418E-A78D-F802F1F59C2D}|src\\HotelProject.WebComponents\\Client.WebComponents.csproj|c:\\users\\ilyao\\hotelproject\\src\\hotelproject.webcomponents\\pages\\booking\\booking.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE816EE-41C9-418E-A78D-F802F1F59C2D}|src\\HotelProject.WebComponents\\Client.WebComponents.csproj|solutionrelative:src\\hotelproject.webcomponents\\pages\\booking\\booking.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE816EE-41C9-418E-A78D-F802F1F59C2D}|src\\HotelProject.WebComponents\\Client.WebComponents.csproj|c:\\users\\ilyao\\hotelproject\\src\\hotelproject.webcomponents\\pages\\bookinguser\\bookinglist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE816EE-41C9-418E-A78D-F802F1F59C2D}|src\\HotelProject.WebComponents\\Client.WebComponents.csproj|solutionrelative:src\\hotelproject.webcomponents\\pages\\bookinguser\\bookinglist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE816EE-41C9-418E-A78D-F802F1F59C2D}|src\\HotelProject.WebComponents\\Client.WebComponents.csproj|c:\\users\\ilyao\\hotelproject\\src\\hotelproject.webcomponents\\pages\\content\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE816EE-41C9-418E-A78D-F802F1F59C2D}|src\\HotelProject.WebComponents\\Client.WebComponents.csproj|solutionrelative:src\\hotelproject.webcomponents\\pages\\content\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE816EE-41C9-418E-A78D-F802F1F59C2D}|src\\HotelProject.WebComponents\\Client.WebComponents.csproj|c:\\users\\ilyao\\hotelproject\\src\\hotelproject.webcomponents\\pages\\authentication\\registration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE816EE-41C9-418E-A78D-F802F1F59C2D}|src\\HotelProject.WebComponents\\Client.WebComponents.csproj|solutionrelative:src\\hotelproject.webcomponents\\pages\\authentication\\registration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 359,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilyao\\HotelProject\\src\\HotelProject.Web\\HotelProject.Web.Client\\Program.cs",
+              "RelativeDocumentMoniker": "src\\HotelProject.Web\\HotelProject.Web.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\ilyao\\HotelProject\\src\\HotelProject.Web\\HotelProject.Web.Client\\Program.cs",
+              "RelativeToolTip": "src\\HotelProject.Web\\HotelProject.Web.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:56:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.razor",
+              "DocumentMoniker": "C:\\Users\\ilyao\\HotelProject\\src\\HotelProject.WebComponents\\Pages\\Booking\\Booking.razor",
+              "RelativeDocumentMoniker": "src\\HotelProject.WebComponents\\Pages\\Booking\\Booking.razor",
+              "ToolTip": "C:\\Users\\ilyao\\HotelProject\\src\\HotelProject.WebComponents\\Pages\\Booking\\Booking.razor",
+              "RelativeToolTip": "src\\HotelProject.WebComponents\\Pages\\Booking\\Booking.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T16:48:03.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingList.razor",
+              "DocumentMoniker": "C:\\Users\\ilyao\\HotelProject\\src\\HotelProject.WebComponents\\Pages\\BookingUser\\BookingList.razor",
+              "RelativeDocumentMoniker": "src\\HotelProject.WebComponents\\Pages\\BookingUser\\BookingList.razor",
+              "ToolTip": "C:\\Users\\ilyao\\HotelProject\\src\\HotelProject.WebComponents\\Pages\\BookingUser\\BookingList.razor",
+              "RelativeToolTip": "src\\HotelProject.WebComponents\\Pages\\BookingUser\\BookingList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T16:48:00.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\ilyao\\HotelProject\\src\\HotelProject.WebComponents\\Pages\\Content\\Home.razor",
+              "RelativeDocumentMoniker": "src\\HotelProject.WebComponents\\Pages\\Content\\Home.razor",
+              "ToolTip": "C:\\Users\\ilyao\\HotelProject\\src\\HotelProject.WebComponents\\Pages\\Content\\Home.razor",
+              "RelativeToolTip": "src\\HotelProject.WebComponents\\Pages\\Content\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T16:47:53.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.razor",
+              "DocumentMoniker": "C:\\Users\\ilyao\\HotelProject\\src\\HotelProject.WebComponents\\Pages\\Authentication\\Registration.razor",
+              "RelativeDocumentMoniker": "src\\HotelProject.WebComponents\\Pages\\Authentication\\Registration.razor",
+              "ToolTip": "C:\\Users\\ilyao\\HotelProject\\src\\HotelProject.WebComponents\\Pages\\Authentication\\Registration.razor",
+              "RelativeToolTip": "src\\HotelProject.WebComponents\\Pages\\Authentication\\Registration.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T16:47:47.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
